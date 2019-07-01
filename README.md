@@ -1,2 +1,2 @@
 # ParallelMatrixMultyplication
-Project for a course in paralle programing.
+Project for a course in parallel programming.
